@@ -474,8 +474,8 @@ html, body{
     .nav .nav-menu, .nav .nav-items{
         flex-direction: column;
     }
-    .nav ul{
-     margin-top: 40px;
+    .nav .nav-items{
+     margin-top: 60px;
      }
     .nav{
         padding-left: 1px;
