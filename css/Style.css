@@ -220,7 +220,7 @@ button{
 }
 .mom{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .imgcon{
     text-align: center;
@@ -378,7 +378,7 @@ button{
 }
 .mother{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 .cont{
@@ -463,7 +463,7 @@ button{
     background:  rgb(2, 2, 54);
     color: white;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
 }
 .loop2 input{
@@ -485,7 +485,7 @@ button{
 .foot{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-top: 40px;
 }
 .foot ul li{
